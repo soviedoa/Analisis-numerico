@@ -1,9 +1,9 @@
 disp('MÉTODO: Cholesky');
 disp('Ingrese la matriz A: ')
 disp('Nota: tenga en cuenta que si digita un espacio es el valor siguiente ')
-A = input('en esa fila e digitar un punto y coma es ingresar una nueva fila. ');
+A = input('en esa fila e digitar un punto y coma es ingresar una nueva fila  y encierrelos en corchetes. ');
 disp('Ingrese el vector b')
-b = input('Nota: tenga encuenta que para cambiar de fila en el vector debe digitar un punto y coma. ');
+b = input('Nota: tenga encuenta que para cambiar de fila en el vector debe digitar un punto y coma y encierrelos en corchetes. ');
 
 if n~=m
     fprintf('\n\n La matriz no es cuadrada \n\n');
