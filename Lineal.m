@@ -1,4 +1,4 @@
-disp('MÉTODO: Trazadores lineales')
+disp('MÉTODO: trazadores lineales')
 disp('Ingrese los puntos: ')
 x = input('Nota: cada que ingrese un punto, digite un punto y coma y encierrelos en corchetes. ');
 disp('Ingrese las imágenes de los puntos: ')
